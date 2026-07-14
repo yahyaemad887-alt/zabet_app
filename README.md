@@ -13,13 +13,13 @@
 
 ## 📸 لقطات من التطبيق
 
-| Screen A | Screen B | Screen C | Screen D |
-| :---: | :---: | :---: | :---: |
-| ![Screen A](screenshots/a.jpg) | ![Screen B](screenshots/b.jpg) | ![Screen C](screenshots/c.jpg) | ![Screen D](screenshots/d.jpg) |
+|            Screen A            |            Screen B            |            Screen C            |            Screen D            |
+|:------------------------------:|:------------------------------:|:------------------------------:|:------------------------------:|
+| ![Screen A](screenshots/A.png) | ![Screen B](screenshots/B.png) | ![Screen C](screenshots/C.png) | ![Screen D](screenshots/D.png) |
 
-| Screen E | Screen F | Screen G |
-| :---: | :---: | :---: |
-| ![Screen E](screenshots/e.jpg) | ![Screen F](screenshots/f.jpg) | ![Screen G](screenshots/g.jpg) |
+|            Screen E            |            Screen F            |            Screen G            |
+|:------------------------------:|:------------------------------:|:------------------------------:|
+| ![Screen E](screenshots/E.png) | ![Screen F](screenshots/F.png) | ![Screen G](screenshots/G.png) |
 
 ## whatsapp(+201553427179) 🤝 التواصل
 تم تطوير هذا التطبيق بواسطة: [yahya emad]
