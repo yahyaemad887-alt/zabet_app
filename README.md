@@ -1,17 +1,25 @@
-# zabet_app
+# Zabet App 🏋️‍♂️
 
-A new Flutter project.
+تطبيق متخصص لمتابعة وتحسين الأداء البدني لاختبارات اللياقة للكلية العسكرية.
 
-## Getting Started
+## 🚀 المميزات الرئيسية
+*   تتبع الأداء اليومي لتمارين (العقلة، الضغط، البطن، والجري).
+*   واجهة مستخدم عصرية ومريحة للعين.
+*   مقارنة الأداء الحالي بالهدف المطلوب لكل تمرين.
 
-This project is a starting point for a Flutter application.
+## 🛠 التقنيات المستخدمة
+*   **Framework:** Flutter
+*   **Language:** Dart
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 لقطات من التطبيق
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+| Screen A | Screen B | Screen C | Screen D |
+| :---: | :---: | :---: | :---: |
+| ![Screen A](screenshots/a.jpg) | ![Screen B](screenshots/b.jpg) | ![Screen C](screenshots/c.jpg) | ![Screen D](screenshots/d.jpg) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Screen E | Screen F | Screen G |
+| :---: | :---: | :---: |
+| ![Screen E](screenshots/e.jpg) | ![Screen F](screenshots/f.jpg) | ![Screen G](screenshots/g.jpg) |
+
+## 🤝 التواصل
+تم تطوير هذا التطبيق بواسطة: [yahya emad]
