@@ -211,7 +211,10 @@ class _ZabetTestsScreenState extends State<ZabetTestsScreen> {
                                 ),
                                 Text(
                                   "${test.currentScore}",
-                                  style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+                                  style: const TextStyle(
+                                    fontSize: 15, // صغرنا حجم الخط شوية من 18 إلى 15 عشان ما يخبطش في الأيقونة
+                                    fontWeight: FontWeight.bold,
+                                  ),
                                 ),
                                 IconButton(
                                   icon: const Icon(Icons.add_circle_outline, color: Colors.green),

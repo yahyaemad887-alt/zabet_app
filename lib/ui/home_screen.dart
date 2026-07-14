@@ -211,7 +211,7 @@ class HomeScreen extends StatelessWidget {
                     child: Padding(
                       padding: const EdgeInsets.all(16.0), // مسافة أمان عشان الأيقونة متلمسش الإطار
                       child: Image.asset(
-                        "assets\images/app_logo.png", // مسار الأيقونة اللي هتصممها وتضيفها في الـ assets
+                        "assets/images/app_logo.png", // مسار الأيقونة اللي هتصممها وتضيفها في الـ assets
                         fit: BoxFit.contain, // بيضمن إن الأيقونة تحافظ على أبعادها المربعة في النص
                       ),
                     ),
